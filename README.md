@@ -1,8 +1,12 @@
 ### Hi there, I am Harshita 👋
 🔭 I’m working with a startup, Zuma in the Conversation AI domain.
+
 🌱 I’m currently building chatbots using Langchain and Gen AI.
+
 ⭐ Excited about groundbreaking AI/ML-powered products.
+
 📫 Get in Touch: Email: harshita23sharma@gmail.com
+
 😄 Pronouns: She/Her
 
 Thanks for visiting! Whether you're into code, data, or the endless possibilities of AI, let's embark on a journey of exploration and innovation together! 🌟
