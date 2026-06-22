@@ -149,8 +149,8 @@
 
 ```text
 🤖  Multi-agent orchestration & agentic evaluation
-📐  Propensity modelling for multi-channel targeting
-🔬  LLM-based evaluation frameworks (GenAI rubrics)
+📐  Knowledge Graphs
+🔬  AIOps
 📦  Feature store design for real-time ML serving
 ```
 
